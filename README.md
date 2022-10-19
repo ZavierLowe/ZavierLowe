@@ -1,7 +1,9 @@
 # Hey 👋 I'm Zavier
 
 ## View My Portfolio Here 
-<a href="www.zavierlowe.com" style="color:orange;text-decoration:underline;font-size:24px;">zavierlowe.com</a>
+
+
+<a href="https://www.zavierlowe.com/" target="_blank" style="color:orange;text-decoration:underline;font-size:24px;">Portfolio</a>
 
 <div style="text-align: center;">
 <a  href="">
