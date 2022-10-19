@@ -1,8 +1,9 @@
 # Hey 👋 I'm Zavier
 
 <h2 style="font-size:24px;">View My Portfolio Here</h2>
-<a href="https://www.zavierlowe.com/" target="_blank" style="color:orange;text-decoration:underline;font-size:24px;">zavierlowe.com</a>
+<h4 href="https://www.zavierlowe.com/" target="_blank" style="color:orange;text-decoration:underline;font-size:24px;">zavierlowe.com</h4>
 
+<h2 style="margin-top:24px;" >My Social Links</h2>
 <div style="text-align: center;">
 <a style="margin-left:24px;" href="">
 <img  width="54" style="border-radius:5px;" src="https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"/>
