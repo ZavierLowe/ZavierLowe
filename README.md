@@ -1,10 +1,10 @@
 # Hey 👋 I'm Zavier
 
-<p>View My Portfolio Here</p>
-<a href="https://www.zavierlowe.com/" target="_blank" style="color:orange;text-decoration:underline;font-size:24px;">ZavierLowe</a>
+<p style="font-size:24px;">View My Portfolio Here</p>
+<a href="https://www.zavierlowe.com/" target="_blank" style="color:orange;text-decoration:underline;font-size:24px;">zavierlowe.com</a>
 
 <div style="text-align: center;">
-<a  href="">
+<a style="margin-left:24px;" href="">
 <img  width="54" style="border-radius:5px;" src="https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"/>
 </a>
 <a href="">
