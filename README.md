@@ -19,7 +19,7 @@
 </a>
 </div>
 
-<img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api?username=zavierlowe&show_icons=true&theme=aura_dark&hide_border=true"/>
+<img align="center" width="100%" style="border-radius:5px;margin-top:24px;"  src="https://github-readme-stats.vercel.app/api?username=zavierlowe&show_icons=true&theme=aura_dark&hide_border=true"/>
 <img align="center" width="100%" style="margin-top:12px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavierlowe&layout=compact&theme=aura_dark&hide_border=true"/>
 <img align="left"  style="margin-top:12px;" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img align="left"  style="margin-top:12px;margin-left:12px;" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
