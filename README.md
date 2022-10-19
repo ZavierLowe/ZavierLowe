@@ -6,16 +6,16 @@
 <h2 style="margin-top:24px;" >My Social Links</h2>
 <div style="text-align: center;">
 <a style="margin-left:24px;" href="">
-<img  width="54" style="border-radius:5px;" src="https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"/>
+<img  width="24" style="border-radius:5px;" src="https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"/>
 </a>
 <a href="">
-<img  width="54" style="border-radius:5px;margin-left:24px;" src="https://abovethelaw.com/uploads/2016/01/linkedin-logo.png"/>
+<img  width="24" style="border-radius:5px;margin-left:24px;" src="https://abovethelaw.com/uploads/2016/01/linkedin-logo.png"/>
 </a>
 <a href="">
-<img   width="54" style="border-radius:5px;margin-left:24px;" src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg"/>
+<img   width="24" style="border-radius:5px;margin-left:24px;" src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg"/>
 </a>
 <a href="">
-<img width="54" style="border-radius:5px;margin-left:24px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png"/>
+<img width="24" style="border-radius:5px;margin-left:24px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png"/>
 </a>
 </div>
 
