@@ -1,6 +1,6 @@
 # Hey 👋 I'm Zavier
 
-<p style="font-size:24px;">View My Portfolio Here</p>
+<h2 style="font-size:24px;">View My Portfolio Here</h2>
 <a href="https://www.zavierlowe.com/" target="_blank" style="color:orange;text-decoration:underline;font-size:24px;">zavierlowe.com</a>
 
 <div style="text-align: center;">
