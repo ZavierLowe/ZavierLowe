@@ -33,11 +33,16 @@
 </a>
 </div>
 
+&nbsp;
+
 <img align="center" width="100%"  
 src="https://github-readme-stats.vercel.app/api?username=zavierlowe&show_icons=true&theme=aura_dark&hide_border=true"/>
+
+&nbsp;
 <img align="center" width="100%"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavierlowe&layout=compact&theme=aura_dark&hide_border=true"/>
 
 
+&nbsp;
 
 <img align="left"  style="margin-top:12px;margin-left:12px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left"  style="margin-top:12px;margin-left:12px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -51,10 +56,11 @@ src="https://github-readme-stats.vercel.app/api?username=zavierlowe&show_icons=t
 
 
 &nbsp;
-<img align="left"  style="margin-top:12px;margin-left:12px;" src="https://img.shields.io/badge/figma-%233550.svg?style=for-the-badge&logo=figma&logoColor=white"/> &nbsp;
+
+<img align="left" style="margin-top:12px;margin-left:12px;" src="https://img.shields.io/badge/figma-%233550.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <img align="left"  style="margin-top:12px;" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-&nbsp;
+
 <!--
 **ZavierLowe/ZavierLowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
