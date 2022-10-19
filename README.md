@@ -1,26 +1,43 @@
-<h1 style="text-align: center;">Hey 👋🏾 I'm Zavier</h1>
 
-<h2 style="font-size:24px;">View My Portfolio Here</h2>
+<h1 align="center">Hey 👋🏾 I'm Zavier</h1>
+
+
+
+<h2 align="center" style="font-size:24px;">View My Portfolio Here</h2>
+<div align="center">
 <a href="https://www.zavierlowe.com/" target="_blank" style="color:orange;text-decoration:underline;font-size:24px;">zavierlowe.com</a>
+</div>
 
-<h2 style="margin-top:24px;" >My Social Links</h2>
-<div style="text-align: center;">
-<a style="margin-left:24px;" href="">
-<img  width="24" style="border-radius:5px;" src="https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"/>
+
+<h2 align="center" style="margin-top:24px;" >Social Links</h2>
+<div align="center">
+<a  href="">
+&nbsp;&nbsp;&nbsp;&nbsp
+<img  width="42" style="border-radius:5px;margin-left:24px;" src="https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"/>
+&nbsp;&nbsp;&nbsp;&nbsp
 </a>
 <a href="">
-<img  width="24" style="border-radius:5px;margin-left:24px;" src="https://abovethelaw.com/uploads/2016/01/linkedin-logo.png"/>
+&nbsp;&nbsp;&nbsp;&nbsp
+<img  width="42" style="border-radius:5px;margin-left:24px;" src="https://abovethelaw.com/uploads/2016/01/linkedin-logo.png"/>
+&nbsp;&nbsp;&nbsp;&nbsp
 </a>
 <a href="">
-<img   width="24" style="border-radius:5px;margin-left:24px;" src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg"/>
+&nbsp;&nbsp;&nbsp;&nbsp
+<img   width="42" style="border-radius:5px;margin-left:24px;" src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg"/>
+&nbsp;&nbsp;&nbsp;&nbsp
 </a>
 <a href="">
-<img width="24" style="border-radius:5px;margin-left:24px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png"/>
+&nbsp;&nbsp;&nbsp;&nbsp
+<img width="42" style="border-radius:5px;margin-left:24px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png"/>
+&nbsp;&nbsp;&nbsp;&nbsp
 </a>
 </div>
 
-<img align="center" width="100%" style="border-radius:5px;margin-top:24px;"  src="https://github-readme-stats.vercel.app/api?username=zavierlowe&show_icons=true&theme=aura_dark&hide_border=true"/>
-<img align="center" width="100%" style="margin-top:12px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavierlowe&layout=compact&theme=aura_dark&hide_border=true"/>
+<img align="center" width="100%"  
+src="https://github-readme-stats.vercel.app/api?username=zavierlowe&show_icons=true&theme=aura_dark&hide_border=true"/>
+<img align="center" width="100%"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavierlowe&layout=compact&theme=aura_dark&hide_border=true"/>
+
+
 <img align="left"  style="margin-top:12px;" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img align="left"  style="margin-top:12px;margin-left:12px;" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 <img align="left"  style="margin-top:12px;margin-left:12px;" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
