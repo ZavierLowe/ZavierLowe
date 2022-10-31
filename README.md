@@ -9,7 +9,7 @@
 </div>
 
 
-<h2 align="center" style="margin-top:24px;" >Social Links</h2>
+<!-- <h2 align="center" style="margin-top:24px;" >Social Links</h2>
 <div align="center">
 <a  href="">
 &nbsp;&nbsp;&nbsp;&nbsp
@@ -32,7 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp
 </a>
 </div>
-
+ -->
 &nbsp;
 
 <img align="center" width="100%"  
