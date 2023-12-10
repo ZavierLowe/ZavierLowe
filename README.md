@@ -3,10 +3,10 @@
 
 
 
-<h2 align="center" style="font-size:24px;">View My Portfolio Here</h2>
-<div align="center">
+<!-- <h2 align="center" style="font-size:24px;">View My Portfolio Here</h2>
+<!-- <div align="center"> -->
 <!-- <a href="https://www.zavierlowe.com/" target="_blank" style="color:orange;text-decoration:underline;font-size:24px;">zavierlowe.com</a> -->
-</div>
+<!-- </div> -->
 
 
 <!-- <h2 align="center" style="margin-top:24px;" >Social Links</h2>
